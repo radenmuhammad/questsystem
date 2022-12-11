@@ -1,1 +1,1 @@
-open app in https://github.com/radenmuhammad/questsystem
+open app in http://127.0.0.1:8000
